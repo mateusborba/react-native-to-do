@@ -1,3 +1,4 @@
 # react-native-to-do
-Primeiro projeto em react native
-Construindo um to-do list bem simples para começar 
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+* Primeiro projeto em react-native
+* Começando a construir um to-do list simples
